@@ -1,0 +1,12 @@
+Info: Backing up file '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/sym-lib-table' to '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/rescue-backup/sym-lib-table-2024-09-08-17-37-58'.
+Info: Backing up file '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/cheapstat_adapter_B.sch' to '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/rescue-backup/cheapstat_adapter_B-2024-09-08-17-37-58.sch'.
+Info: Backing up file '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/cheapstat_adapter_B.kicad_pro' to '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/rescue-backup/cheapstat_adapter_B-2024-09-08-17-37-58.kicad_pro'.
+Info: Backing up file '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/cheapstat_adapter_B-cache.lib' to '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/rescue-backup/cheapstat_adapter_B-cache-2024-09-08-17-37-58.lib'.
+Info: Backing up file '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/cheapstat_adapter_B-rescue.lib' to '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/rescue-backup/cheapstat_adapter_B-rescue-2024-09-08-17-37-58.lib'.
+Info: Backing up file '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/cheapstat_adapter_B-rescue.dcm' to '/home/wbd/work/products/potentiostat_adapters/cheapstat_spe_adapter_B/rescue-backup/cheapstat_adapter_B-rescue-2024-09-08-17-37-58.dcm'.
+Info: Adding library 'cheapstat_adapter_B-rescue', file '${KIPRJMOD}/cheapstat_adapter_B-rescue.lib' to project symbol library table.
+Symbol CONN_3 mapped to symbol library 'cheapstat_adapter_B-rescue'.
+Symbol CONN_3X2 mapped to symbol library 'cheapstat_adapter_B-rescue'.
+Info: Symbol library table mapping complete!
+Info: Created project symbol library table.
+
